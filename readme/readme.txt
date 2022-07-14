@@ -1,1 +1,6 @@
-The main file has name and is in the package ..
+# brief
+This calculator could follows the mvc model and could do all sorts of bodmas operations,
+
+## Main Method
+
+src/thread/
