@@ -62,7 +62,7 @@ public class Calcus {
 
 	/**
 	 * Initialize the contents of the frame.
-	 */
+	*/
 
 	private void initialize() {
 		frame = new JFrame();
@@ -72,7 +72,6 @@ public class Calcus {
 		frame.setBounds(360, 25, width, height);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setResizable(false);
-		frame.getContentPane().add(panel);
 		frame.getContentPane().setLayout(null);
 
 		menu.setBackground(Color.LIGHT_GRAY);
