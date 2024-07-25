@@ -1,4 +1,0 @@
-Solve BODMAS
-Solve linear Equation in one variable
-Solve simultaneous equations in multiple variables
-Solve polynomial equations
